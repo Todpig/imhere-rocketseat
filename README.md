@@ -12,8 +12,8 @@ Aplicativo móvel para gerenciamento de presença em eventos.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/imhere.git
-cd imhere
+git clone https://github.com/Todpig/imhere-rocketseat.git
+cd imhere-rocketseat
 ```
 
 2. Instale as dependências:
